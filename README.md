@@ -6,6 +6,6 @@ Python is one of the best programming languages. Because of its readability and 
 # prueba de git push a direcotrio en la nube usando git push
 
 
-
+git fetch prueba 
 
 
